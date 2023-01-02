@@ -10,7 +10,8 @@
 
 # production
 /build
-
+#private info
+/familyData
 # misc
 .DS_Store
 .env.local
